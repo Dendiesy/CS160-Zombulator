@@ -1,1 +1,3 @@
-Zombulator
+# Zombulator
+
+By Joshua Dendauw
