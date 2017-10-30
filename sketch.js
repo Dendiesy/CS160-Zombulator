@@ -27,9 +27,6 @@ function draw() {
   moveHumans();
 }
 
-//use vectors
-//use perlin noise
-//funcion member
 // Zombies. Raaahh!
 
 function initializeZombies() {
