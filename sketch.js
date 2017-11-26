@@ -4,8 +4,8 @@
 var backgroundColor;
 
 const MIN_SIZE = 5;
-const MAX_SIZE = 35;
-var POPULATION_SIZE = 500;
+const MAX_SIZE = 50;
+var POPULATION_SIZE = 250;
 
 var population = [];
 
